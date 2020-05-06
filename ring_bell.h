@@ -1,0 +1,8 @@
+//
+// Created by groovenspoat on 06/05/20.
+//
+
+#ifndef NURSEASSISTANCE_SERVER_RING_BELL_H
+#define NURSEASSISTANCE_SERVER_RING_BELL_H
+
+#endif //NURSEASSISTANCE_SERVER_RING_BELL_H

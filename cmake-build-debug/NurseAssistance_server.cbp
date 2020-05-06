@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NurseAssistance_server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NurseAssistance_server">
+				<Option output="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/NurseAssistance_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 NurseAssistance_server"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NurseAssistance_server/fast">
+				<Option output="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/NurseAssistance_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 NurseAssistance_server/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/groovenspoat/CLionProjects/NurseAssistance_server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/main.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/ring_bell.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/ring_bell.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/acceptor.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/exception.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/inet_address.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/platform.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/sock_address.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/socket.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/stream_socket.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/tcp_acceptor.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/header/tcp_socket.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/acceptor.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/exception.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/inet_address.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/socket.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/stream_socket.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/src/tcp_acceptor.cpp">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/sockap/version.h">
+			<Option target="NurseAssistance_server"/>
+		</Unit>
+		<Unit filename="/home/groovenspoat/CLionProjects/NurseAssistance_server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/groovenspoat/CLionProjects/NurseAssistance_server/ring_bell.cpp
+ring_bell.h
+/home/groovenspoat/CLionProjects/NurseAssistance_server/ring_bell.h
+
+/home/groovenspoat/CLionProjects/NurseAssistance_server/ring_bell.h
+
